@@ -1,0 +1,38 @@
+# Linux Server Administration
+
+## About
+
+This project demonstrates basic Linux server administration
+and command-line operations.
+
+## Technologies
+
+- Linux
+- Bash
+- SSH
+- Apache
+
+## Commands Practiced
+
+- pwd
+- ls
+- cd
+- mkdir
+- touch
+- cp
+- mv
+- rm
+- chmod
+- ps
+- top
+- df
+- free
+- systemctl
+
+## Skills
+
+- File management
+- User permissions
+- Process management
+- Service management
+- Linux troubleshooting
